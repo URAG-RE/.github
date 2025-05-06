@@ -8,4 +8,4 @@ Roles:
  
 @G00bry ( Music maker )
  
-@SovietPwner ( ??? )
+@SovietPwner ( Concept Artist )
