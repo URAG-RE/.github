@@ -5,6 +5,8 @@ Nothing much happening
 Roles:
  
 @BendieGames ( Coder, Owner )
+
+@vyvymeo ( Artist, Owner??)
  
 @G00bry ( Music maker )
  
