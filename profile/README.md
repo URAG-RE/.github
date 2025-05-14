@@ -6,7 +6,7 @@ Roles:
  
 @BendieGames ( Coder, Owner )
 
-@vyvymeo ( Artist, Owner??)
+@vyvymeo ( Artist, Co-Owner??)
  
 @G00bry ( Music maker )
  
